@@ -10,10 +10,7 @@ class Solution {
                 c[++top]=ch;
             }
         }
-        String x = "";
-        for(int i=0;i<=top;i++){
-            x+=c[i];
-        }
-        return x;
+        return new String(c, 0, top+1 );
+
     }
 }
