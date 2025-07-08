@@ -13,8 +13,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
