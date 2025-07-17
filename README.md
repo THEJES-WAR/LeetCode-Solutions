@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3396-valid-word](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/3396-valid-word) |
+| [3468-find-the-encrypted-string](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/3468-find-the-encrypted-string) |
 ## Stack
 |  |
 | ------- |
