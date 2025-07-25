@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/1005-univalued-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/2384-root-equals-sum-of-children) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1005-univalued-binary-tree](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/1005-univalued-binary-tree) |
 ## Binary Tree
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/1005-univalued-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/2384-root-equals-sum-of-children) |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/1005-univalued-binary-tree) |
 ## Binary Search Tree
@@ -119,4 +123,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->
