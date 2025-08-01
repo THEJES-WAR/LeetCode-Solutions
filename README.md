@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0061-rotate-list) |
+| [0092-reverse-linked-list-ii](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0147-insertion-sort-list](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
