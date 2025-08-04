@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0940-fruit-into-baskets](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [1127-last-stone-weight](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/1127-last-stone-weight) |
 ## Heap (Priority Queue)
 |  |
@@ -172,4 +173,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [0940-fruit-into-baskets](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
+## Sliding Window
+|  |
+| ------- |
+| [0940-fruit-into-baskets](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
 <!---LeetCode Topics End-->
