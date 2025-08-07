@@ -30,12 +30,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0287-find-the-duplicate-number](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0874-backspace-string-compare](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0874-backspace-string-compare](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1666-make-the-string-great](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/1666-make-the-string-great) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0874-backspace-string-compare](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1666-make-the-string-great](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/1666-make-the-string-great) |
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0874-backspace-string-compare](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Design
