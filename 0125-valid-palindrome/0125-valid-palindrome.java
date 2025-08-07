@@ -1,10 +1,27 @@
 class Solution {
     public boolean isPalindrome(String s) {
-        s = s.toLowerCase();
-        s = s.replaceAll("\\p{Punct}", "");
-        s = s.replaceAll("\\s+", "");
-        String r = new StringBuilder(s).reverse().toString();
-        System.out.print(s+" "+r);
-        return s.equals(r);
+        int left = 0,right = s.length()-1;
+        char a,b;
+        while(left<right){
+            a = s.charAt(left);
+            b = s.charAt(right);
+            if(a>='A' && a<='Z') a = (char)(a+' ');
+            if(b>='A' && b<='Z') b = (char)(b+' ');
+
+            if (!((a >= 'a' && a <= 'z') || (a >= '0' && a <= '9'))){
+                left++;
+                continue;
+            }
+
+            if (!((b >= 'a' && b <= 'z') || (b >= '0' && b <= '9'))) {
+                right--;
+                continue;
+            }
+            if(a!=b) return false;
+            left++;
+            right--;
+            
+        }
+        return true;
     }
 }
