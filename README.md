@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0061-rotate-list) |
+| [0125-valid-palindrome](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0287-find-the-duplicate-number](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1666-make-the-string-great](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/1666-make-the-string-great) |
