@@ -205,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
