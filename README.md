@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-minimum-distance-between-bst-nodes](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/1005-univalued-binary-tree) |
+| [1254-deepest-leaves-sum](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/1254-deepest-leaves-sum) |
 | [2384-root-equals-sum-of-children](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1005-univalued-binary-tree](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/1005-univalued-binary-tree) |
+| [1254-deepest-leaves-sum](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/1254-deepest-leaves-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-minimum-distance-between-bst-nodes](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/1005-univalued-binary-tree) |
+| [1254-deepest-leaves-sum](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/1254-deepest-leaves-sum) |
 | [2384-root-equals-sum-of-children](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/2384-root-equals-sum-of-children) |
 ## Divide and Conquer
 |  |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-minimum-distance-between-bst-nodes](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/1005-univalued-binary-tree) |
+| [1254-deepest-leaves-sum](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/1254-deepest-leaves-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
