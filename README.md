@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0874-backspace-string-compare](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
+| [0933-increasing-order-search-tree](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0933-increasing-order-search-tree) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1666-make-the-string-great](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/1666-make-the-string-great) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0933-increasing-order-search-tree](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0933-increasing-order-search-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/1005-univalued-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/1254-deepest-leaves-sum) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0933-increasing-order-search-tree](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0933-increasing-order-search-tree) |
 | [1005-univalued-binary-tree](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/1005-univalued-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/1254-deepest-leaves-sum) |
 ## Binary Tree
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0933-increasing-order-search-tree](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0933-increasing-order-search-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/1005-univalued-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/1254-deepest-leaves-sum) |
@@ -204,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0933-increasing-order-search-tree](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0933-increasing-order-search-tree) |
 ## Recursion
 |  |
 | ------- |
