@@ -10,10 +10,13 @@
  */
 class Solution {
     public int[][] spiralMatrix(int m, int n, ListNode head) {
-        int [][]matrix = new int[m][n];
-        for(int i=0;i<m;i++) Arrays.fill(matrix[i],-1);
+        int [][]matrix = new int[m][];
+        for(int i=0;i<m;i++){
+            matrix[i] = new int[n];
+            Arrays.fill(matrix[i],-1);
+        }
         int top = 0,bottom = m-1,left = 0,right = n-1;
-        while(head!=null && top <= bottom && left <= right){
+        while(head!=null){
             for(int i=left;i<=right && head != null;i++){
                 matrix[top][i]=head.val;
                 head = head.next;
