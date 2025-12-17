@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0940-fruit-into-baskets](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [1127-last-stone-weight](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/1127-last-stone-weight) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 ## Merge Sort
 |  |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0166-fraction-to-recurring-decimal](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0940-fruit-into-baskets](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
 ## Sliding Window
