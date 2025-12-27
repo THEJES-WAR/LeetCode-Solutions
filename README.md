@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0645-set-mismatch) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0166-fraction-to-recurring-decimal](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0445-add-two-numbers-ii](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [3074-apple-redistribution-into-boxes](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0268-missing-number](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0538-convert-bst-to-greater-tree) |
@@ -290,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 ## Quickselect
@@ -303,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0166-fraction-to-recurring-decimal](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
+| [0268-missing-number](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0940-fruit-into-baskets](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
