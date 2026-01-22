@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0735-asteroid-collision](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0940-fruit-into-baskets](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
+| [0973-k-closest-points-to-origin](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/1127-last-stone-weight) |
 | [1168-duplicate-zeros](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/1168-duplicate-zeros) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/1127-last-stone-weight) |
 ## Simulation
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0445-add-two-numbers-ii](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
+| [0973-k-closest-points-to-origin](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2645-pass-the-pillow](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/2645-pass-the-pillow) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Sorting
 |  |
 | ------- |
@@ -239,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0645-set-mismatch) |
+| [0973-k-closest-points-to-origin](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [3074-apple-redistribution-into-boxes](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 ## Merge Sort
 |  |
@@ -303,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Hash Table
 |  |
 | ------- |
@@ -341,4 +347,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
