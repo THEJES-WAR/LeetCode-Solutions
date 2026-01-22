@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3210-find-the-encrypted-string](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/3210-find-the-encrypted-string) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3396-valid-word](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/3396-valid-word) |
 | [3468-find-the-encrypted-string](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/3468-find-the-encrypted-string) |
 ## Stack
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2645-pass-the-pillow](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/2645-pass-the-pillow) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3879-find-minimum-log-transportation-cost](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/3879-find-minimum-log-transportation-cost) |
 ## Tree
 |  |
