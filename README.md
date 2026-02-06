@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0735-asteroid-collision](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
 | [0933-increasing-order-search-tree](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0933-increasing-order-search-tree) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0735-asteroid-collision](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0940-fruit-into-baskets](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [0973-k-closest-points-to-origin](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -374,4 +376,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0877-stone-game) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
