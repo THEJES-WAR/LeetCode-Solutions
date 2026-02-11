@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0786-k-th-smallest-prime-fraction](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0874-backspace-string-compare](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0908-middle-of-the-linked-list) |
+| [0969-pancake-sorting](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0969-pancake-sorting) |
 | [1168-duplicate-zeros](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/1168-duplicate-zeros) |
 ## String
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0786-k-th-smallest-prime-fraction](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0877-stone-game](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0940-fruit-into-baskets](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
+| [0969-pancake-sorting](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0969-pancake-sorting) |
 | [0973-k-closest-points-to-origin](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/1127-last-stone-weight) |
 | [1168-duplicate-zeros](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/1168-duplicate-zeros) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0969-pancake-sorting](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0969-pancake-sorting) |
 | [0973-k-closest-points-to-origin](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1833-maximum-ice-cream-bars](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [3074-apple-redistribution-into-boxes](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0969-pancake-sorting](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0969-pancake-sorting) |
 | [1833-maximum-ice-cream-bars](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [3074-apple-redistribution-into-boxes](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 ## Counting
