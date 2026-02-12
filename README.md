@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1598-crawler-log-folder](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/1598-crawler-log-folder) |
 | [1666-make-the-string-great](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/1666-make-the-string-great) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0933-increasing-order-search-tree](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0933-increasing-order-search-tree) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1598-crawler-log-folder](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/1598-crawler-log-folder) |
 | [1666-make-the-string-great](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/1666-make-the-string-great) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Array
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/1127-last-stone-weight) |
 | [1168-duplicate-zeros](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/1168-duplicate-zeros) |
+| [1598-crawler-log-folder](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/1598-crawler-log-folder) |
 | [1833-maximum-ice-cream-bars](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
