@@ -8,7 +8,6 @@ class Solution {
             else if(!i.equals("./")){
                 ans++;
             }
-            System.out.print(ans+" ");
         }
         return ans<=0 ? 0 : ans; 
     }
