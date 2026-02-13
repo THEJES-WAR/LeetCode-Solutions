@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1598-crawler-log-folder](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/1598-crawler-log-folder) |
 | [1666-make-the-string-great](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/1666-make-the-string-great) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3210-find-the-encrypted-string](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/3210-find-the-encrypted-string) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1168-duplicate-zeros](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/1168-duplicate-zeros) |
 | [1598-crawler-log-folder](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/1598-crawler-log-folder) |
 | [1833-maximum-ice-cream-bars](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0786-k-th-smallest-prime-fraction](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0973-k-closest-points-to-origin](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/1127-last-stone-weight) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Simulation
 |  |
 | ------- |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Sorting
 |  |
 | ------- |
@@ -267,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0969-pancake-sorting](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0969-pancake-sorting) |
 | [0973-k-closest-points-to-origin](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1833-maximum-ice-cream-bars](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3074-apple-redistribution-into-boxes](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 ## Merge Sort
 |  |
@@ -334,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Hash Table
 |  |
 | ------- |
