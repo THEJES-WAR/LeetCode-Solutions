@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0166-fraction-to-recurring-decimal](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0500-keyboard-row](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0500-keyboard-row) |
+| [0692-top-k-frequent-words](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0874-backspace-string-compare](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0500-keyboard-row) |
 | [0645-set-mismatch](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0645-set-mismatch) |
+| [0692-top-k-frequent-words](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0735-asteroid-collision](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0786-k-th-smallest-prime-fraction) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0692-top-k-frequent-words](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0973-k-closest-points-to-origin](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/1127-last-stone-weight) |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0645-set-mismatch) |
+| [0692-top-k-frequent-words](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0969-pancake-sorting](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0969-pancake-sorting) |
 | [0973-k-closest-points-to-origin](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -354,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0500-keyboard-row) |
 | [0645-set-mismatch](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0645-set-mismatch) |
+| [0692-top-k-frequent-words](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0940-fruit-into-baskets](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 ## Sliding Window
@@ -383,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0692-top-k-frequent-words](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 ## Geometry
 |  |
@@ -404,4 +410,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
+## Bucket Sort
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
