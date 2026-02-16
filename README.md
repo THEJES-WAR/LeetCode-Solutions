@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/2411-spiral-matrix-iv) |
 | [3074-apple-redistribution-into-boxes](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
+| [3285-find-indices-of-stable-mountains](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/3285-find-indices-of-stable-mountains) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
