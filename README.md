@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2645-pass-the-pillow](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/2645-pass-the-pillow) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
+| [3307-find-the-k-th-character-in-string-game-ii](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 | [3879-find-minimum-log-transportation-cost](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/3879-find-minimum-log-transportation-cost) |
 ## Tree
 |  |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [3307-find-the-k-th-character-in-string-game-ii](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/0645-set-mismatch) |
+| [3307-find-the-k-th-character-in-string-game-ii](https://github.com/THEJES-WAR/LeetCode-Solutions/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 ## Quickselect
 |  |
 | ------- |
